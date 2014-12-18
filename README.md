@@ -1,7 +1,4 @@
-EGit 4 CCS
-
-==========
-
+# EGit 4 CCS
 
 * PowerPoint Slides to show how to setup EGit in Code Composure Studio
 
